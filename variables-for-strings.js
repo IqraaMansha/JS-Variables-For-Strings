@@ -29,11 +29,11 @@ var email = " My Email Address is iqramansha78u@gmail.com ";
 alert(email);
 
 var book = " “ A smarter way to learn JavaScript ” . ";
-var message1 = " I am trying to learn from a book A smarter way to learn JavaScript .... "
+var message1 = " I am trying to learn from a book A smarter way to learn JavaScript .... ";
 alert(message1);
 
 var html = " YAH ! I can write HTML content through Javascript  ";
 document.write(html);
 
-var end = " “__________ஜ۩۞۩ஜ__________” "
+var end = " “__________ஜ۩۞۩ஜ__________” ";
 alert(end);
