@@ -1,6 +1,5 @@
 // #2 VARIABLES FOR STRINGS
 
-
 // Welcoming_my_users = "Thanks For Coming Here";
 
 // document.write(' Welcome ' + Welcoming_my_users);
