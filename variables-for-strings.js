@@ -6,6 +6,7 @@
 // Using Console
 console.log("#2 VARIABLES FOR STRINGS");
 
+
 var username1;
 var myName = "Iqra Mansha";
 
