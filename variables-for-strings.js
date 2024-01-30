@@ -4,6 +4,7 @@
 // Welcoming_my_users = "Thanks For Coming Here";
 // document.write(' Welcome ' + Welcoming_my_users);
 
+
 // Using Console
 console.log("#2 VARIABLES FOR STRINGS");
 
